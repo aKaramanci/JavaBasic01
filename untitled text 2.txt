@@ -1,0 +1,24 @@
+java 
+
+
+
+What is Java?
+applications. it has been a populer chaice among develepers for over ti decades , with millions of java applications in use today java is a 
+milti-platform, object-oriented and network-centic language
+that can be used as a platform in itself. it is a fast ,secure, relianbe programig language for coding everything from mobile apps
+and enterprise software to big data applicattions and server-side technologies.
+
+
+Wat is java programing language used for ?
+Because java is a ifree-to-use and a versatile language, it builds localized ad distributed software. Same common user of java 
+include:
+
+1 Game Development
+Many prpuler mobile. computer,and vide games ara built in Java.Even modern games that ingrate advanced technology like machine leaerning ar virtual reality are built with Java tecnology.
+
+Cloud computing 
+
+java is often refered 
+
+
+
